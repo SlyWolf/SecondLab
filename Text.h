@@ -47,6 +47,8 @@ class String
 //need to document that this compare only has three possible return values (-1, 0, 1)
       int compare(String* other);
 
+//Test comment
+
 };
 
 #endif
